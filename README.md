@@ -1,16 +1,15 @@
-# responsive
+Selam 
 
-A new Flutter project.
+Responsive tasarımı flutter da nasıl yapıldığını öğrendiğim bir uygulamaydı.Umarım faydalı olur.
 
-## Getting Started
+UYGULAMANIN ARAYÜZÜ
 
-This project is a starting point for a Flutter application.
+Mobile:
+![mobile](https://user-images.githubusercontent.com/97678425/179396070-505fc0f6-4755-4f65-9aed-de4638e05d9f.png)
 
-A few resources to get you started if this is your first Flutter project:
+Tablet:
+![tablet](https://user-images.githubusercontent.com/97678425/179396078-6fd05c48-94fc-4ff2-a581-57f275126083.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Desktop:
+![desktop](https://user-images.githubusercontent.com/97678425/179396083-d291a957-5d6e-41a4-b9ac-7d9686ac23b4.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
