@@ -1,6 +1,6 @@
 Selam 
 
-Responsive tasarımı flutter da nasıl yapıldığını öğrendiğim bir uygulamaydı.Umarım faydalı olur.
+Flutter ile responsive tasarımı nasıl yapıldığını öğrendiğim bir uygulamaydı. Umarım faydalı olur.
 
 UYGULAMANIN ARAYÜZÜ
 
